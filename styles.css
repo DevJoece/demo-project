@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color:#86d624 ;
+    font-size: 1.3125rem;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+    padding:20px;
+}
